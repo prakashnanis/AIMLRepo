@@ -1,0 +1,5 @@
+Create a repository in GitHub.
+Initialize Git in your project.
+Add and commit your project.
+Push your project to GitHub.
+Add and remove a file from a repository.
